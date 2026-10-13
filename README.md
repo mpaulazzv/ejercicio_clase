@@ -173,11 +173,6 @@ Un PR tiene:
 
 Cuando un PR se aprueba, GitHub ofrece tres formas de integrarlo. La diferencia está en **cómo queda el historial**.
 
-> 🔎 **Visualización interactiva:** en este punto de la clase se muestra la herramienta visual para ver cómo se comporta cada estrategia.
->
-> <!-- INSERTAR ENLACE A LA HERRAMIENTA -->
-> Enlace: _[pendiente]_
-
 ### Merge commit (*Create a merge commit*)
 
 Une las dos ramas con un **commit extra de merge**. Conserva todos los commits de la rama tal cual.
