@@ -132,14 +132,14 @@ Un **flujo de ramas** es el acuerdo del equipo sobre qué ramas existen, para qu
 Un modelo con varias ramas de larga vida: `main` (versiones publicadas), `develop` (integración), y ramas de apoyo `feature/*`, `release/*` y `hotfix/*`. Pensado para proyectos con versiones planeadas y mantenimiento de varias versiones en paralelo.
 
 <!-- INSERTAR IMAGEN: diagrama de Git Flow -->
-![Diagrama de Git Flow](imagenes/git-flow.png)
+![Diagrama de Git Flow](imagenes/gitflow.png)
 
 ### GitHub Flow
 
 Un modelo simple: `main` siempre está estable, y cada cambio se hace en una **rama corta** que se integra mediante un Pull Request tras ser revisada.
 
 <!-- INSERTAR IMAGEN: diagrama de GitHub Flow -->
-![Diagrama de GitHub Flow](imagenes/github-flow.png)
+![Diagrama de GitHub Flow](imagenes/githubflow.png)
 
 ### Comparación
 
